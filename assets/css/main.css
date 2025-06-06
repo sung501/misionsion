@@ -3514,3 +3514,13 @@ input, select, textarea {
 			}
 
 	}
+
+	.text-box {
+		font-size: 2rem;
+		color: white;                /* 텍스트 색상 */
+		text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.7), 0 0 25px rgba(0, 0, 0, 0.5); /* 부드러운 그림자 효과 */
+		padding: 5px 10px;
+	  }
+	  
+	  
+	  
